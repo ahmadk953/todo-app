@@ -1063,9 +1063,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mysql2@npm:^3.22.5":
-  version: 3.22.5
-  resolution: "mysql2@npm:3.22.5"
+"mysql2@npm:^3.22.6":
+  version: 3.22.6
+  resolution: "mysql2@npm:3.22.6"
   dependencies:
     aws-ssl-profiles: "npm:^1.1.2"
     denque: "npm:^2.1.0"
@@ -1074,10 +1074,10 @@ __metadata:
     long: "npm:^5.3.2"
     lru.min: "npm:^1.1.4"
     named-placeholders: "npm:^1.1.6"
-    sql-escaper: "npm:^1.3.3"
+    sql-escaper: "npm:^1.4.0"
   peerDependencies:
     "@types/node": ">= 8"
-  checksum: 10c0/531d40ebedb1cb39343ecd2ca557c6f7101f58af6a2734fdb25bf2b714292a38d9fe1aad2737356dd98b0084af260fe8d34c049da8c01094a6493298d013d991
+  checksum: 10c0/b0b61c55cacc6b5c3518970dec9613fe7877b62dcc5d97c5f2bf8f0e4a46c3d6bd4a34f5b47b4c67c21d513d60f259a4fddb255e964ac582b23fa221e0d6dbff
   languageName: node
   linkType: hard
 
@@ -1561,10 +1561,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sql-escaper@npm:^1.3.3":
-  version: 1.3.3
-  resolution: "sql-escaper@npm:1.3.3"
-  checksum: 10c0/aa6545685745f4d457a6993cd7b442ac39d54aae6780d15e5ed1ff929f298f6c10562b9e09ddcbedcdf5c3601161e5ee39d3e8d435b1d168775f121946d1bf44
+"sql-escaper@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "sql-escaper@npm:1.4.0"
+  checksum: 10c0/46f9b2b4a63074ec173bc8cab49c23e155903fa73e564d1246e4b5899d014fd0b36094c75294875558e24cdcd467fa684dddb1a13cf6317d7daea4fa5ce9f37d
   languageName: node
   linkType: hard
 
@@ -1702,7 +1702,7 @@ __metadata:
   dependencies:
     express: "npm:^5.2.1"
     helmet: "npm:^8.2.0"
-    mysql2: "npm:^3.22.5"
+    mysql2: "npm:^3.22.6"
     nodemon: "npm:^3.1.14"
     prettier: "npm:^3.8.5"
     sqlite3: "npm:^6.0.1"
