@@ -1070,9 +1070,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mysql2@npm:^3.23.0":
-  version: 3.23.0
-  resolution: "mysql2@npm:3.23.0"
+"mysql2@npm:^3.23.2":
+  version: 3.23.2
+  resolution: "mysql2@npm:3.23.2"
   dependencies:
     aws-ssl-profiles: "npm:^1.1.2"
     denque: "npm:^2.1.0"
@@ -1084,7 +1084,7 @@ __metadata:
     sql-escaper: "npm:^1.5.1"
   peerDependencies:
     "@types/node": ">= 8"
-  checksum: 10c0/916b35e07d3cd17626e98aedc37e7cdf32097c7bfbf5ef6f579180ff1690aff9f4bda2b0afefc3b131154cffdb86e895bfb16c0a768042cfd878cb140b415c98
+  checksum: 10c0/7166182efb110a6c152ef4030a5857abe3af4d433207a420e9a4fcb00af95a6ae1cb4482af83f40f82267a09dcbcd12c65b6ba4bf691526cd52401cd2ea8da5a
   languageName: node
   linkType: hard
 
@@ -1742,7 +1742,7 @@ __metadata:
   dependencies:
     express: "npm:^5.2.1"
     helmet: "npm:^8.3.0"
-    mysql2: "npm:^3.23.0"
+    mysql2: "npm:^3.23.2"
     nodemon: "npm:^3.1.14"
     prettier: "npm:^3.9.6"
     sqlite3: "npm:^6.0.1"
